@@ -1,4 +1,5 @@
-# Phishing do Desafio do Curso de CiberSecurity Specialist, que possui o objetivo de captura de senhas do Facebook com uma página de login falsa.
+# Phishing para captura de senhas do Facebook 
+Phishing do Desafio do Curso de CiberSecurity Specialist, que possui o objetivo de captura de senhas do Facebook com uma página de login falsa.
 
 # Ferramentas Utilizadas:
 
