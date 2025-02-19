@@ -13,7 +13,7 @@ else:
         with open(file_name, "rb") as file:
             file_data = file.read()
 
-        # Remover o arquivo original
+        # Remover o arquivo original da pasta
         os.remove(file_name)
 
         # Chave de criptografia com 32 bytes

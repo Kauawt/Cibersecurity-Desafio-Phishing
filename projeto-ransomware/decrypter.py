@@ -23,7 +23,7 @@ else:
         # Remover o arquivo criptografado
         os.remove(file_name)
 
-        # Cria um novo nome removendo a extensão ".cryptOFF"
+        # Cria um nome de arquivo removendo a extensão ".cryptOFF"
         decrypted_file_name = file_name.replace(".cryptOFF", "")
 
         # Salvando o arquivo descriptografado
